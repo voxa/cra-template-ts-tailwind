@@ -1,0 +1,29 @@
+{
+    "name": "@voxasoftworks/cra-template-ts-tailwind",
+    "version": "1.0.0",
+    "keywords": [
+        "react",
+        "create-react-app",
+        "template",
+        "typescript",
+        "ts",
+        "tailwindcss",
+        "tailwind"
+    ],
+    "description": "A customised TypeScript template for Create React App, with Tailwind included.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/voxa/cra-template-typescript-tailwind.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "node": ">=14"
+    },
+    "bugs": {
+        "url": "https://github.com/voxa/cra-template-typescript-tailwind/issues"
+    },
+    "files": [
+        "template",
+        "template.json"
+    ]
+}
