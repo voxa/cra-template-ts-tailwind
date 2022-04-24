@@ -2,6 +2,8 @@
 
 This is a template for [Create React App](https://github.com/facebook/create-react-app), which initialises a project with TypeScript and Tailwind.
 
+![Image](/localhost.png "A photo of the template page")
+
 To use this template, add `--template @voxasoftworks/cra-template-ts-tailwind` when creating a new app.
 
 For example:
